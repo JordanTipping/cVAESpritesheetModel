@@ -19,7 +19,10 @@ Because of hardware constraints, the model was trained using a google colab GPU,
 
 2. File - > Upload Notebook. 
 
-3. (CVAEDEPLOYMENT.ipynb) from this repo. 
+3. (CVAEDEPLOYMENT.ipynb) from this repo.
+
+
+The dataset is in this repo under (Dataset.zip)
 
 Dataset must be saved in content/spritesheets. Thats the root of the colab notebooks file directory, in a folder called spritesheets. 
 
