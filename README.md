@@ -23,9 +23,9 @@ Because of hardware constraints, the model was trained using a google colab GPU,
 
 Dataset must be saved in content/spritesheets. Thats the root of the colab notebooks file directory, in a folder called spritesheets. 
 
-Step through... 
+Step through the code cells. 
 
-Train...
+Train... Look for num_epochs Variable
 
 1000 Epochs works, but 5000 is reccommended. 
 
