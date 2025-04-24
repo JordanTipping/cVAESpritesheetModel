@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 1e0d9d135e8b87945b457e3abefda2fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5715e8ee399c5e4597b25fec9bcf202
+      internalID: 2127332458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 358.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db04f700fc44844a848f5fd39737b9
+      internalID: -1216757972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 358.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5317068b308464da179015c1fa4e31
+      internalID: -1414239729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 358.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0254f717e11e34aa04e958cdd6a52c
+      internalID: 79697993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7884aa95ebc3c241aff6f6cd41a38e2
+      internalID: -520708262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 239.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592364f8d153e3c468a1226d4f63a354
+      internalID: 100999846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 239.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49218949f8784f34eb79b7614d14aa74
+      internalID: -1954141783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 239.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116872f62e3cc87448aad75d7fae8b8a
+      internalID: -1421468100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382288bfd74b35243ac6374b247cfad0
+      internalID: -336521025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d981022b4bad5f41ab56854edc47e44
+      internalID: 521752329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094dcbaa81f0784f917777e6d357d27
+      internalID: -1489945100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 120.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c69c552ebee1d4f98b3fc234e942f1
+      internalID: 571722569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dff140cd4fcff4aadfaf5b0000df95
+      internalID: -323115932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c348f693e3403e448e4fe99f34a616c
+      internalID: -1283797392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ae9962a548bd846a3454f7399a1d14
+      internalID: -252837487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvaehooded1000epochs (2)_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb915794cea844aab081136a5e117f
+      internalID: -295061996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      filenameopenclipcvaehooded1000epochs (2)_0: 2127332458
+      filenameopenclipcvaehooded1000epochs (2)_1: -1216757972
+      filenameopenclipcvaehooded1000epochs (2)_10: -1489945100
+      filenameopenclipcvaehooded1000epochs (2)_11: 571722569
+      filenameopenclipcvaehooded1000epochs (2)_12: -323115932
+      filenameopenclipcvaehooded1000epochs (2)_13: -1283797392
+      filenameopenclipcvaehooded1000epochs (2)_14: -252837487
+      filenameopenclipcvaehooded1000epochs (2)_15: -295061996
+      filenameopenclipcvaehooded1000epochs (2)_2: -1414239729
+      filenameopenclipcvaehooded1000epochs (2)_3: 79697993
+      filenameopenclipcvaehooded1000epochs (2)_4: -520708262
+      filenameopenclipcvaehooded1000epochs (2)_5: 100999846
+      filenameopenclipcvaehooded1000epochs (2)_6: -1954141783
+      filenameopenclipcvaehooded1000epochs (2)_7: -1421468100
+      filenameopenclipcvaehooded1000epochs (2)_8: -336521025
+      filenameopenclipcvaehooded1000epochs (2)_9: 521752329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

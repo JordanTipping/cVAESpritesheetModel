@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 19484c4ea5acc7b42a563c488e7befca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170d949d8a7a3742b93bf1920bd37e5
+      internalID: 69795110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 358.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8994d6c3a07123e43bcbdfcc76ae6a5e
+      internalID: -503722110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 358.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a34245ca1a07d4185d5d33ba320a3f
+      internalID: -1423032837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 358.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874be42605671374faab498dd4ca247e
+      internalID: -244719722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcad6796de5fa044aa80dbaf3ac9dc0
+      internalID: 349977033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 239.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28956eadc2be06c4b9c4be58b4c4c300
+      internalID: 610731690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 239.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e265bef5cb9f4db494e149b630e67
+      internalID: 1929723977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 239.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aac71f75ea235418f94a03b5120ef1
+      internalID: 179123522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f2fd1700472b4abece8c905f7d892
+      internalID: -209886466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7047b6e731ac32848b0460697d973dd7
+      internalID: 2019612807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34cc14d5a44ce4cbe9d524e526390f
+      internalID: 2047122627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 120.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f08423ee6571ad47b562c99391212c0
+      internalID: 1025480889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16dfd13aa7d1ff4c84e2546f00489e6
+      internalID: -584547317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bce209e58b5b84a935013f422923cf
+      internalID: -1058170097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33fba448eb294c45ae93ce376be8540
+      internalID: -890622100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: filenameopenclipcvae1000epochs (2)_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1.5
+        width: 119.5
+        height: 119.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ccd14478f0a2b449e5185946a8da7e
+      internalID: -474602187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      filenameopenclipcvae1000epochs (2)_0: 69795110
+      filenameopenclipcvae1000epochs (2)_1: -503722110
+      filenameopenclipcvae1000epochs (2)_10: 2047122627
+      filenameopenclipcvae1000epochs (2)_11: 1025480889
+      filenameopenclipcvae1000epochs (2)_12: -584547317
+      filenameopenclipcvae1000epochs (2)_13: -1058170097
+      filenameopenclipcvae1000epochs (2)_14: -890622100
+      filenameopenclipcvae1000epochs (2)_15: -474602187
+      filenameopenclipcvae1000epochs (2)_2: -1423032837
+      filenameopenclipcvae1000epochs (2)_3: -244719722
+      filenameopenclipcvae1000epochs (2)_4: 349977033
+      filenameopenclipcvae1000epochs (2)_5: 610731690
+      filenameopenclipcvae1000epochs (2)_6: 1929723977
+      filenameopenclipcvae1000epochs (2)_7: 179123522
+      filenameopenclipcvae1000epochs (2)_8: -209886466
+      filenameopenclipcvae1000epochs (2)_9: 2019612807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
